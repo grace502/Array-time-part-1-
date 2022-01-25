@@ -1,2 +1,2 @@
-# Array-time-part-1-
-We tried to show all of the points when we move the bird.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
